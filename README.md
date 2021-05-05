@@ -17,6 +17,6 @@ Conclusion section where you conclude the report.
 
 Here are examples of previous outstanding submissions that should give you an idea of what your report would look like, what your notebook would look like in terms of clean, clear, and well-commented code, and what your presentation would look like or your blogpost would look like:
 
-### Report: Report Template
-### Notebook: Notebook Template
-### Blogpost: Blogpost template
+### Report: https://github.com/denzenith/The-Battle-of-Neighborhoods/blob/432d51b02f352d9d7808572ac6bd42863acc3a95/The%20Battle%20of%20Neighborhoods%20(Week%201).ipynb
+### Notebook: https://github.com/denzenith/The-Battle-of-Neighborhoods/blob/432d51b02f352d9d7808572ac6bd42863acc3a95/The%20Battle%20of%20Neighborhoods%20(Week%201).ipynb
+### Blogpost: https://github.com/denzenith/The-Battle-of-Neighborhoods/blob/432d51b02f352d9d7808572ac6bd42863acc3a95/The%20Battle%20of%20Neighborhoods%20(Week%201).ipynb
